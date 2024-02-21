@@ -1,0 +1,24 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+div{
+    text-align: center;
+    background-color: brown;
+    width: 50vh;
+    height: auto;
+    border: black solid;
+    border-radius: 20px;
+}
+ul{
+    text-align: start;
+}
+.delet{
+    margin-left: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
